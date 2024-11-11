@@ -1,0 +1,4 @@
+graphviz_path: plantuml-1.2024.7.jar
+repo_path: C:\Users\trxumx\PycharmProjects\Emulator
+output_file: output.puml
+branch_name: master

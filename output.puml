@@ -1,0 +1,8 @@
+@startuml
+skinparam rectangle {
+   BackgroundColor #FDF6E3
+}
+rectangle "Initial commit" as Commit1
+rectangle "Second Commit" as Commit2
+Commit1 <|-- Commit2
+@enduml
